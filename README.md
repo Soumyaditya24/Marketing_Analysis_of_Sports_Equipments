@@ -13,6 +13,7 @@ Marketing analysis of sports equipment with emphasis on conversions, customer en
 | `Dashboard PDF.pdf`                | Exported PDF version of the final dashboard.                                |
 | `Dataset.csv`                      | Dataset containing customer, product, review, and engagement data.          |
 | `PowerBi Dashboard.pbix`           | Power BI project file with all interactive visuals and KPIs.                |
+| `Presentation PDF.pdf`             | Exported PDF version of the project presentation.                           |
 | `Presentation PPT.pptx`            | PowerPoint presentation explaining the project workflow and insights.       |
 | `Python for cleaning.py`           | Python script for data cleaning and preprocessing.                          |
 | `README.md`                        | Documentation file (this one).                                              |
@@ -72,4 +73,4 @@ Marketing analysis of sports equipment with emphasis on conversions, customer en
 3. Use `Python for cleaning.py` for preprocessing if needed.  
 4. Open `PowerBi Dashboard.pbix` in **Power BI Desktop**.  
 5. If prompted, update the dataset path to `Dataset.csv`.  
-6. Refresh the dashboard and interact with filters/slicers.  
+6. Refresh the dashboard and interact with filters/slicers. 
